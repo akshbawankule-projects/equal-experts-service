@@ -1,6 +1,7 @@
 package com.ee.cart.service;
 
 import com.ee.cart.client.PriceAPIClient;
+import com.ee.cart.model.CartEntry;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
